@@ -8,7 +8,7 @@ The module can be used when you need a function that returns the range of some g
 ##Installing 
 
 ```javascript
-npm i node-range --save-dev
+npm i node-num-range --save-dev
 ```
 
 ##Usage
@@ -18,7 +18,7 @@ Simply require the `node-range` module. The export function can be used in any m
 `range(start, end, step)`
 
 ```javascript
-const range = require('node-range');
+const range = require('node-num-range');
 
 range(1,10); //==> [1,2,3,4,5,6,7,8,9,10]
 

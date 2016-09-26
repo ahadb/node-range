@@ -1,6 +1,6 @@
 {
   "name": "node-num-range",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An intelligible function for JavaScript that produces a range of numbers",
   "main": "index.js",
   "scripts": {
