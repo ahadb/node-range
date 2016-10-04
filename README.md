@@ -42,7 +42,8 @@ Uses mocha and chai's expect
 
 * [is-even-integer](https://github.com/ahadb/is-even-integer)
 * [first-of-array](https://github.com/ahadb/first-of-array)
-* [is-even-integer](https://github.com/ahadb/is-even-integer)
+* [last-of-array](https://github.com/ahadb/last-of-array)
+* [node-camel-case](https://github.com/ahadb/node-camel-case)
 
 ##Contributing
 
